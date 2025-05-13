@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Sandipan Deb!</h1>
+<h1 align="left">Hey there, I'm Sandipan Deb!</h1>
 
 ###
 
@@ -47,9 +47,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
@@ -87,11 +87,7 @@
 
 ###
 
-<div align="center">
-  <img height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh0a3g1aWYzMzhxMGZlaW00bGtuZjRmaGs3NXc2cXoxcGQya3VyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif"  />
-</div>
 
-<h2 align="center">Diving into the world of programming</h2>
 
 ###
 
@@ -103,3 +99,10 @@
 </picture>
 <!-- <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" /> -->
 
+###
+
+<div align="center">
+  <img height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh0a3g1aWYzMzhxMGZlaW00bGtuZjRmaGs3NXc2cXoxcGQya3VyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif"  />
+</div>
+
+<h3 align="center" style="font-size: 20px">Dive into the world of programming</h3>
