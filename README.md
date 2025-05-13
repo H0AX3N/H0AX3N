@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">- I am a Computer Science graduate and an aspiring Fullstack Developer.<br>- Just started using GitHub, so you can expect many projects in the coming days.<br>- Currently exploring Open Source and mastering ReactJS.</p>
+- Computer Science graduate and aspiring Fullstack Developer  
+- Just started using GitHub — many exciting projects coming soon!  
+- Currently exploring Open Source and mastering **ReactJS**
+
 
 ###
 
@@ -62,7 +65,7 @@
 
 ###
 
-<br clear="both">
+<!--<br clear="both">-->
 
 ###
 
