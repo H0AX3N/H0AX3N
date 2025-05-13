@@ -64,14 +64,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" />
-<!--   <img alt="github-snake" src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" /> -->
-</picture>
-<!-- <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" /> -->
-
 ###
 
 <div align="center">
@@ -83,4 +75,12 @@
 <h2 align="center">Diving into the world of programming</h2>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" />
+<!--   <img alt="github-snake" src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" /> -->
+</picture>
+<!-- <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" /> -->
 
