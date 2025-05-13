@@ -65,8 +65,8 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H0AX3N/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H0AX3N/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" />
 <!--   <img alt="github-snake" src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" /> -->
 </picture>
