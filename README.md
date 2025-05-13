@@ -73,8 +73,6 @@
   <img height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh0a3g1aWYzMzhxMGZlaW00bGtuZjRmaGs3NXc2cXoxcGQya3VyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif"  />
 </div>
 
-###
-
 <h2 align="center">Diving into the world of programming</h2>
 
 ###
