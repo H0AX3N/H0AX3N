@@ -65,7 +65,7 @@
 <h2 align="left">Get in touch</h2>
 
 <div align="left">
-  <a href="HoaxeN#6282" target="_blank">
+  <a href="sandipandeb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="sandipandeb1310@gmail.com" target="_blank">
