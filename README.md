@@ -35,7 +35,7 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,materialui,java,postman,git,github,figma)](https://skillicons.dev)-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,materialui,java,postman,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,tailwind,materialui,java,postman,git,github,figma" />
   </a>
 </p>
 
@@ -72,6 +72,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" />
+
+  
 <!--   <img alt="github-snake" src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/github-snake.svg" /> -->
 </picture>
 <!-- <img src="https://raw.githubusercontent.com/H0AX3N/H0AX3N/output/snake.svg" alt="Snake animation" /> -->
@@ -83,3 +85,4 @@
 </div>
 
 <h3 align="center" style="font-size: 20px">Dive into the world of programming</h3>
+
