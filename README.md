@@ -35,7 +35,7 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,materialui,java,postman,git,github,figma)](https://skillicons.dev)-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,tailwind,materialui,java,postman,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,tailwind,materialui,java,postman,vscode,git,github,figma" />
   </a>
 </p>
 
